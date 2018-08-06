@@ -1,0 +1,27 @@
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple
+--extra-index-url http://mirrors.aliyun.com/pypi/simple/
+
+asn1crypto==0.24.0
+certifi==2018.1.18
+cffi==1.11.4
+chardet==3.0.4
+cryptography==2.1.4
+Django==1.11.10
+django-appconf==1.0.2
+django-fernet-fields==0.5
+django-rosetta==0.8.1
+django-statici18n==1.7.0
+django-summernote==0.8.8.5
+enum34==1.1.6
+idna==2.6
+ipaddress==1.0.19
+microsofttranslator==0.8
+Pillow==5.0.0
+polib==1.1.0
+# psycopg2==2.7.3.2
+PyMySQL==0.9.2
+pycparser==2.18
+pytz==2017.3
+requests==2.18.4
+six==1.11.0
+urllib3==1.22
